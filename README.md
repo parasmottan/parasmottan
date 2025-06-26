@@ -62,8 +62,8 @@ I’m building [**Whispra.in**] — an **Omegle-style anonymous chat platform** 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paras123&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=paras123&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parasmottan&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parasmottan&theme=radical" height="170px"/>
 </div>
 
 ---

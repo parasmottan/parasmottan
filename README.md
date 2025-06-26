@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=500&lines=Hi+I'm+Paras+Mottan;MERN+Stack+Developer+%7C+Founder+of+Whispra.in" />
 </p>
-
+<br>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Empathy%20Driven-%2300C897?style=for-the-badge&logo=heart" />
   <img src="https://img.shields.io/badge/Web%20Craftsman-%23F59E0B?style=for-the-badge&logo=code" />

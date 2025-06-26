@@ -1,8 +1,9 @@
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=500&lines=Hi+I'm+Paras+Mottan;MERN+Stack+Developer+%7C+Founder+of+Whispra.in" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&multiline=true&width=500&lines=Hi+I'm+Paras+Mottan;" />
+
 </p>
-<br>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Empathy%20Driven-%2300C897?style=for-the-badge&logo=heart" />
@@ -62,20 +63,34 @@ I’m building [**Whispra.in**] — an **Omegle-style anonymous chat platform** 
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parasmottan&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parasmottan&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parasmottan&show_icons=true&theme=radical" height="170px" />
+<p align="center">
+  <img src="https://github.com/parasmottan/assets/blob/main/streak-card.svg" width="100%" />
+</p>
+
 </div>
+
 
 ---
 
 ## 🌐 Let’s Connect
 
+
 <p align="center">
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/@codexcoder-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@CodeXCoder"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://parasmottan-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/code_xcoder" target="_blank">
+    <img src="https://img.shields.io/badge/@code_xcoder-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@code_xcoder" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
